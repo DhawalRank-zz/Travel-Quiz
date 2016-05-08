@@ -1,0 +1,1 @@
+MainPackage=c:\users\sojit\onedrive\documents\visual studio 2015\Projects\Travel Quiz\Travel Quiz\bin\x86\Release\Upload\Travel Quiz_1.1.0.0_x86.appx
